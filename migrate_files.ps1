@@ -10,3 +10,4 @@ function migrate-files ($home_path, $migration_path) {
     }
 
 }
+migrate-files $home_path $migration_path
