@@ -2,6 +2,6 @@
 
 #### pip
 
-pip install virtualenv
-pip install flask-flask_restful
-pip install flask-jwt
+* pip install virtualenv
+* pip install flask-flask_restful
+* pip install flask-jwt
